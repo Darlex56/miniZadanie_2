@@ -1,0 +1,7 @@
+C:\Users\Daniel\source\repos\Cviko3\Cviko3\bin\Debug\Cviko3.exe.config
+C:\Users\Daniel\source\repos\Cviko3\Cviko3\bin\Debug\Cviko3.exe
+C:\Users\Daniel\source\repos\Cviko3\Cviko3\bin\Debug\Cviko3.pdb
+C:\Users\Daniel\source\repos\Cviko3\Cviko3\obj\Debug\Cviko3.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Cviko3\Cviko3\obj\Debug\Cviko3.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Cviko3\Cviko3\obj\Debug\Cviko3.exe
+C:\Users\Daniel\source\repos\Cviko3\Cviko3\obj\Debug\Cviko3.pdb
